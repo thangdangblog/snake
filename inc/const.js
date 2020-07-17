@@ -1,0 +1,3 @@
+const SCREEN_HEIGHT = 500;
+const SCREEN_WIDTH = 300;
+const SNAKE_WIDTH = 10;

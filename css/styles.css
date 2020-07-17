@@ -1,0 +1,10 @@
+canvas#screen {
+    border: 1px solid white;
+    margin: 0 auto;
+    display: block;
+    background: white;
+}
+
+body {
+    background: #1d70b3;
+}
